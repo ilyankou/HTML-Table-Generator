@@ -1,0 +1,21 @@
+Country		Capital
+Afghanistan	Kabul
+Albania 	Tirane
+Algeria 	Algiers
+Andorra 	Andorra La Vella
+Angola 		Luanda
+Antigua and Barbuda	St John's
+Argentina 	Buenos Aires
+Armenia 	Yerevan
+Australia 	Canberra
+Austria 	Vienna
+Azerbaijan 	Baku
+Bahamas 	Nassau
+Bahrain 	Manama
+Bangladesh 	Dhaka
+Barbados 	Bridgetown
+Belarus 	Minsk
+Belgium 	Brussels
+Belize 		Belmopan
+Benin 		Porto Novo
+Bhutan 		Thimphu
